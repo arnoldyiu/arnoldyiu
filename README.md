@@ -13,7 +13,7 @@ I'm a native speaker in English and Cantonese, and fully proficient in Japanese.
 
 In my spare time I enjoy snowboarding, learning new languages, [dog cafés](https://github.com/arnykl23/arnykl23/blob/main/good_boy.jpeg?raw=true), weight training, and [cooking](https://github.com/arnykl23/arnykl23/blob/main/wellington.JPG?raw=true).
 
-If you're interested in my work, feel free to write at [arnold.yiu006@gmail.com](mailto:arnold.yiu006@gmail.com).
+If you're interested in my work, feel free to write me at [arnold.yiu006@gmail.com](mailto:arnold.yiu006@gmail.com).
 
 ---
 
