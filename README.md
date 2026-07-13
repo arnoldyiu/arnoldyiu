@@ -23,10 +23,10 @@ If you're interested in my work, feel free to write me at [arnold.yiu006@gmail.c
 Hallucination detection experiments on open-source model families across 30 languages. Currently curating my own multilingual benchmark for hallucination detection and factuality checking.
 
 **[SaikoLook](https://github.com/arnykl23/SaikoLook)**
-A combined Gmail/Slack inbox service that uses GPT API to score mail messages by importance and required actions. I built the system design, LLM implementation, and frontend in 48 hours for an AI hackathon, where our team placed 2nd place.
+A combined Gmail/Slack inbox service that uses GPT API to score mail messages by importance and required actions. I built the system design, LLM implementation, and frontend in 48 hours for an AI hackathon, where our team secured 2nd place out of 13 teams.
 
 **[paperparse](https://github.com/arnykl23/paperparse)**
-Renders academic PDFs in an HTML reader that grades sentences most relevant to each section using SentenceTransformers. I made this because I have a lot of research to read but also have trust issues surrounding letting AI summarize things for me.
+Renders academic PDFs in an HTML reader that divides and grades sentences by relevance to each section using SentenceTransformers. I made this because I have a lot of research to read but also have trust issues surrounding letting AI summarize things for me.
 
 ---
 
