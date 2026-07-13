@@ -1,6 +1,6 @@
 # Arnold Yiu
 
-Master's student at Waseda University, researching hallucination detection methods in multilingual open-source LLMs under [Prof. Kumiko Tanaka-Ishii](https://ml-waseda.jp/).
+Master's student at Waseda University, researching hallucination detection methods in multilingual open-source LLMs under [Professor Kumiko Tanaka-Ishii](https://ml-waseda.jp/).
 
 Before this I studied art and design at The New School, New York.
 
@@ -9,7 +9,7 @@ These days I'm working on:
 - Small full-stack tools that solve little everyday problems.
 - Mechanistic interpretability of language models.
 
-I'm native in English and Cantonese, and fluent in Japanese. I passed the JLPT N1 with a perfect score after about five years of studying Japanese, which I'm still slightly surprised by.
+I'm a native speaker in English and Cantonese, and fully proficient in Japanese. I passed the JLPT N1 with a perfect score (180/180) after about five years of studying Japanese.
 
 In my spare time I enjoy snowboarding, learning new languages, [dog cafés](https://github.com/arnykl23/arnykl23/blob/main/good_boy.jpeg?raw=true), weight training, and [cooking](https://github.com/arnykl23/arnykl23/blob/main/wellington.JPG?raw=true).
 
@@ -19,14 +19,14 @@ If you're interested in my work, feel free to write at [arnold.yiu006@gmail.com]
 
 ## Selected Projects
 
-**[paperparse](https://github.com/arnykl23/paperparse)**
-Renders academic PDFs as an HTML reader that highlights the sentences most central to each section, so you can skim without losing the original text. I built this because I wanted to read my research faster but also don't trust AI enough to do it for me.
-
 **[mHallucinations-LLM](https://github.com/arnykl23/mHallucinations-LLM)**
-Hallucination detection experiments on open-source model families across 30 languages. Currently curating my own multilingual datasets and investigating neuron-level measures of internal model representations of language.
+Hallucination detection experiments on open-source model families across 30 languages. Currently curating my own multilingual benchmark for hallucination detection and factuality checking.
 
 **[SaikoLook](https://github.com/arnykl23/SaikoLook)**
-A combined Gmail/Slack inbox service that uses GPT API to decide what actually needs your attention. Built system architecture, LLM implementation, and the entire frontend in 48 hours for a hackathon, where I took 2nd place out of 13 teams.
+A combined Gmail/Slack inbox service that uses GPT API to score mail messages by importance and required actions. I built the system design, LLM implementation, and frontend in 48 hours for an AI hackathon, where our team placed 2nd place.
+
+**[paperparse](https://github.com/arnykl23/paperparse)**
+Renders academic PDFs in an HTML reader that grades sentences most relevant to each section using SentenceTransformers. I made this because I have a lot of research to read but also have trust issues surrounding letting AI summarize things for me.
 
 ---
 
