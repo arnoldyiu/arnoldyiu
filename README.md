@@ -11,8 +11,6 @@ These days I'm working on:
 
 If you're interested in my work, feel free to write me at [arnold.yiu006@gmail.com](mailto:arnold.yiu006@gmail.com).
 
----
-
 ## Selected Projects
 
 **[mHallucinations-LLM](https://github.com/arnoldyiu/mHallucinations-LLM)**
@@ -23,8 +21,6 @@ A combined Gmail/Slack inbox service that uses GPT API to score mail messages by
 
 **[paperparse](https://github.com/arnoldyiu/paperparse)**
 Renders academic PDFs in an HTML reader that divides and grades sentences by relevance to each section using SentenceTransformers. I made this because I have a lot of research to read but also have trust issues surrounding letting AI summarize things for me.
-
----
 
 ## Tools of the Trade
 
