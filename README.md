@@ -2,16 +2,12 @@
 
 Master's student at Waseda University, researching hallucination detection methods in multilingual open-source LLMs under [Professor Kumiko Tanaka-Ishii](https://ml-waseda.jp/).
 
-Before this I studied art and design at The New School, New York.
+Before this, I studied art and design at Parsons School of Design in New York.
 
 These days I'm working on:
 - Evaluation methods for hallucination and factuality in open-source LLMs.
 - Small full-stack tools that solve little everyday problems.
 - Mechanistic interpretability of language models.
-
-I'm a native speaker in English and Cantonese, and fully proficient in Japanese. I passed the JLPT N1 with a perfect score (180/180) after about five years of studying Japanese.
-
-In my spare time I enjoy snowboarding, learning new languages, [dog cafés](https://github.com/arnykl23/arnykl23/blob/main/good_boy.jpeg?raw=true), weight training, and [cooking](https://github.com/arnykl23/arnykl23/blob/main/wellington.JPG?raw=true).
 
 If you're interested in my work, feel free to write me at [arnold.yiu006@gmail.com](mailto:arnold.yiu006@gmail.com).
 
@@ -19,13 +15,13 @@ If you're interested in my work, feel free to write me at [arnold.yiu006@gmail.c
 
 ## Selected Projects
 
-**[mHallucinations-LLM](https://github.com/arnykl23/mHallucinations-LLM)**
+**[mHallucinations-LLM](https://github.com/arnoldyiu/mHallucinations-LLM)**
 Hallucination detection experiments on open-source model families across 30 languages. Currently curating my own multilingual benchmark for hallucination detection and factuality checking.
 
-**[SaikoLook](https://github.com/arnykl23/SaikoLook)**
+**[SaikoLook](https://github.com/arnoldyiu/SaikoLook)**
 A combined Gmail/Slack inbox service that uses GPT API to score mail messages by importance and required actions. I built the system design, LLM implementation, and frontend in 48 hours for an AI hackathon, where our team secured 2nd place out of 13 teams.
 
-**[paperparse](https://github.com/arnykl23/paperparse)**
+**[paperparse](https://github.com/arnoldyiu/paperparse)**
 Renders academic PDFs in an HTML reader that divides and grades sentences by relevance to each section using SentenceTransformers. I made this because I have a lot of research to read but also have trust issues surrounding letting AI summarize things for me.
 
 ---
